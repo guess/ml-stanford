@@ -1,2 +1,4 @@
-# ml-stanford
-Machine Learning by Andrew Ng (Stanford University)
+# Machine Learning
+Class by Andrew Ng (Stanford University)
+
+https://www.coursera.org/learn/machine-learning
